@@ -1,5 +1,10 @@
-#Hexo配置搭建
-##Hexo版本
+[toc]
+# Hexo配置搭建
+## Hexo安装
+* git环境
+* node.js环境
+
+## Hexo版本
 ``` shell
 Administrator@WAY-PC MINGW64 /e/hexo (hexo)
 $ hexo version
@@ -15,5 +20,4 @@ ares: 1.10.1-DEV
 icu: 56.1
 modules: 46
 openssl: 1.0.2h
-
 ```
