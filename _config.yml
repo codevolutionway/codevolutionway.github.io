@@ -70,5 +70,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/codevolutionway/codevolutionway.github.io.git
+  repo: https://github.com/imwyw/imwyw.github.io.git
   branch: master

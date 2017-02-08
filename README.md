@@ -20,6 +20,17 @@ hexo deploy
 hexo d
 ```
 
+## hexo部署
+首次hexo deploy部署前，需要安装插件
+否则如下显示：
+```
+WAY@WAY-PC MINGW64 /f/Hexo (hexo)
+$ hexo d
+ERROR Deployer not found: git
+//需要安装
+
+```
+
 ## Hexo版本
 ``` shell
 Administrator@WAY-PC MINGW64 /e/hexo (hexo)
