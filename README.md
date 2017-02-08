@@ -3,6 +3,23 @@
 * git环境
 * node.js环境
 
+## hexo常用命令
+```
+//hexo版本信息
+hexo -v
+//初始化一个hexo
+hexo init
+//生成静态文件
+hexo generate
+hexo g
+//启动本地服务，-p自定义端口(福昕PDF默认端口为4000与hexo冲突)
+hexo server
+hexo s -p 5000
+//部署网站，使用_config.yml中的配置commit
+hexo deploy
+hexo d
+```
+
 ## Hexo版本
 ``` shell
 Administrator@WAY-PC MINGW64 /e/hexo (hexo)
