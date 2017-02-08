@@ -27,8 +27,8 @@ hexo d
 WAY@WAY-PC MINGW64 /f/Hexo (hexo)
 $ hexo d
 ERROR Deployer not found: git
-//需要安装
-
+//需要安装 hexo-deployer-git
+npm install hexo-deployer-git --save
 ```
 
 ## Hexo版本
