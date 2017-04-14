@@ -86,8 +86,8 @@ public/
 Administrator@WAY-PC MINGW64 /e/hexo (hexo)
 $ git remote show hexo
 * remote hexo
-  Fetch URL: https://github.com/codevolutionway/codevolutionway.github.io.git
-  Push  URL: https://github.com/codevolutionway/codevolutionway.github.io.git
+  Fetch URL: https://github.com/imwyw/imwyw.github.io.git
+  Push  URL: https://github.com/imwyw/imwyw.github.io.git
   HEAD branch: hexo
   Remote branches:
     hexo   tracked
@@ -105,7 +105,7 @@ $ git remote show hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/codevolutionway/codevolutionway.github.io.git
+  repo: https://github.com/imwyw/imwyw.github.io.git
   branch: master
 ```
 
