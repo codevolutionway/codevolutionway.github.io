@@ -1,4 +1,7 @@
 # Hexo配置搭建
+## 在线文档
+> https://hexo.io/zh-cn/docs/
+
 ## Hexo安装
 * git环境
 ```
